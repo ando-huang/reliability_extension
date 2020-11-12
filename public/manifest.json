@@ -1,0 +1,14 @@
+{
+  "short_name": "News reliability",
+  "name": "Check reliability of News Source",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "manifest_version": "1.0.0",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_icon": "logo512.png",
+    "default_popup": "popup.html"
+  }
+}
